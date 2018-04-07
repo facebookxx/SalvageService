@@ -1,0 +1,12 @@
+@charset "UTF-8";
+th {
+  font-weight: normal;
+  color: #039;
+  padding: 10px 15px;
+}
+td {
+  color: #669;
+  border-top: 1px solid #e8edff;
+  padding: 10px 15px;
+}
+tr:nth-child(2n) {background: #e8edff;}
